@@ -1,0 +1,50 @@
+body {background-color: white;
+    font-family: 'Space Mono', monospace;
+    }
+    
+h1 {
+    color:black;
+    font-weight: 100;
+    font-size: 16pt;
+    }
+
+h2 {
+    color:black;
+    font-weight: 100;
+    font-size: 24pt;
+    }
+
+h3 {
+    color:black;
+    font-weight: 100;
+    font-size: 12pt;
+    }
+
+h4 {
+    color:black;
+    font-weight: 100;
+    font-size: 1pt; 
+    }
+
+p {
+    color: black;
+    font-weight: light;
+    font-size: 12pt;
+    }
+
+time {
+    color:black;
+    font-weight: 100;
+    font-size: 12pt;
+    }
+
+a {text-decoration: underline;
+    color: black;
+    }
+
+a:hover {color: blue;
+        }
+
+a:visited {color: gray;
+            font-weight: 800;
+        }
