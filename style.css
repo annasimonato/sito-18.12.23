@@ -1,5 +1,6 @@
 body {background-color: white;
     font-family: 'HalyardDis_ISIAU Bk', Arial, Helvetica, sans-serif;
+    display: flex;
     }
     
 div {background-color: aqua;
