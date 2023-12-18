@@ -46,7 +46,7 @@ a {
     border-bottom: 1px solid black; /*shorthand: formattazione abbreviata*/
     }
 
-a:hover {text-decoration: underline
+a:hover {text-decoration: underline;
         color: blue;
         }
 
