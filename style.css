@@ -38,11 +38,15 @@ time {
     font-size: 12pt;
     }
 
-a {text-decoration: underline;
-    color: black;
+a {
+    border-bottom: 1px solid black; /*shorthand: formattazione abbreviata*/
+    border-bottom: 1px;
+    border-style: solid;
+    border-color: black;
     }
 
-a:hover {color: blue;
+a:hover {text-decoration: underline
+        color: blue;
         }
 
 a:visited {color: gray;
