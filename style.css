@@ -41,9 +41,6 @@ time {
 a {
     text-decoration: none;
     border-bottom: 1px solid black; /*shorthand: formattazione abbreviata*/
-    border-bottom: 1px;
-    border-style: solid;
-    border-color: black;
     }
 
 a:hover {text-decoration: underline
