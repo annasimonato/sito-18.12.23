@@ -4,7 +4,11 @@ body {background-color: white;
     }
     
 div {width: 20%;
+    padding: 25px 5px 0px 5px; /*top right bottom left*/
     }
+    
+div.1, div.2, div.3, div.4 {
+    border-right: 1px solid black}
 
 img {width: 100%;
     }
@@ -12,13 +16,13 @@ img {width: 100%;
 h1 {
     color:black;
     font-weight: 100;
-    font-size: 16pt;
+    font-size: 20pt;
     }
 
 h2 {
     color:black;
     font-weight: 100;
-    font-size: 24pt;
+    font-size: 16pt;
     }
 
 h3 {
@@ -45,13 +49,12 @@ time {
     font-size: 12pt;
     }
 
-a {
+a {color: black;
     text-decoration: none;
     border-bottom: 1px solid black; /*shorthand: formattazione abbreviata*/
     }
 
 a:hover {text-decoration: underline;
-        color: blue;
         }
 
 a:visited {color: gray;
